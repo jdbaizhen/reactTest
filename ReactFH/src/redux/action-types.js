@@ -1,0 +1,1 @@
+export const GET_HOMEDATA='GET_HOMEDATA';
